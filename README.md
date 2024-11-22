@@ -1,4 +1,4 @@
-# Blog Tools Collection
+# UhiyamaLab Tools
 
 [UhiyamaLab](https://uhiyama-lab.com/) ブログで紹介している便利ツール群のソースコードリポジトリです。
 
@@ -8,8 +8,8 @@
 
 動画ファイルや GIF 画像を WebP 形式に変換する GUI ツール。
 
-- [ソースコード](./videoToWebConverter)
-- [ブログ記事](https://uhiyama-lab.com/converter-video2webp)
+- [ソースコード](./videoToWebpConverter)
+- [ブログ記事](https://uhiyama-lab.com/blog/webdev/converter-video2webp/)
 - 主な機能：
   - ドラッグ＆ドロップでの変換
   - MP4, MOV, AVI, MKV, GIF 対応
